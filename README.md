@@ -40,7 +40,9 @@ Building production-ready AI applications that are scalable, reliable, and solve
 ![](https://github-readme-stats.shion.dev/api?username=ankush-48&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=ankush-48&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ankush-48&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+<p align="center">
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="700"/>
+</p>
 ## 📈 GitHub Activity Graph
 
 [![Ankush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ankush-48&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
