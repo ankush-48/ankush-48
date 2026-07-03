@@ -46,10 +46,7 @@ Building production-ready AI applications that are scalable, reliable, and solve
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
-## ⏳ Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<img src="https://user-images.githubusercontent.com/.../earth.gif">
 
 ## 📈 GitHub Activity Graph
 
