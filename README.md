@@ -92,12 +92,14 @@ Building production-ready AI applications that are scalable, reliable, and solve
 </p>
 <img src="https://user-images.githubusercontent.com/.../earth.gif">
 
-# 👀 Visitors
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ankush-48&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ankush-48?label=FOLLOWERS&style=for-the-badge&color=blueviolet" />
-  <img src="https://img.shields.io/github/stars/ankush-48?affiliations=OWNER&style=for-the-badge&color=yellow" />
+
+<img src="https://komarev.com/ghpvc/?username=ankush-48&label=Visitors&color=0891b2&style=flat-square"/>
+
+<img src="https://img.shields.io/github/followers/ankush-48?style=flat-square"/>
+
+<img src="https://img.shields.io/github/stars/ankush-48?affiliations=OWNER&style=flat-square"/>
+
 </p>
 ## 📈 GitHub Activity Graph
 
