@@ -46,6 +46,10 @@ Building production-ready AI applications that are scalable, reliable, and solve
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
+## 🏙️ GitHub Skyline
+
+[![GitHub Skyline](https://img.shields.io/badge/View-GitHub%20Skyline-blue?style=for-the-badge&logo=github)](https://skyline.github.com/)
+
 ## 📈 GitHub Activity Graph
 
 [![Ankush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ankush-48&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
