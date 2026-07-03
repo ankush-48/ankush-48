@@ -92,32 +92,14 @@ Building production-ready AI applications that are scalable, reliable, and solve
 </p>
 <img src="https://user-images.githubusercontent.com/.../earth.gif">
 
-# 👨‍💻 Developer Dashboard
-
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ankush-48&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/ankush-48?label=Followers&style=for-the-badge&color=blueviolet"/>
-
-<img src="https://img.shields.io/github/stars/ankush-48?affiliations=OWNER&label=Stars&style=for-the-badge&color=yellow"/>
-
-</p>
-
-<p align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankush-48&theme=github_dark"/>
-
 </p>
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankush-48&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankush-48&theme=github_dark"/>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankush-48&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankush-48&theme=github_dark&utcOffset=5.5"/>
 </p>
-
 
 ## 📈 GitHub Activity Graph
 
