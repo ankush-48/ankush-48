@@ -46,9 +46,10 @@ Building production-ready AI applications that are scalable, reliable, and solve
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
-## 🏙️ GitHub Skyline
+## ⏳ Weekly Development Breakdown
 
-[![GitHub Skyline](https://img.shields.io/badge/View-GitHub%20Skyline-blue?style=for-the-badge&logo=github)](https://skyline.github.com/)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 📈 GitHub Activity Graph
 
