@@ -101,6 +101,11 @@ Building production-ready AI applications that are scalable, reliable, and solve
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankush-48&theme=github_dark&utcOffset=5.5"/>
 </p>
 
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankush-48&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankush-48&theme=github_dark"/>
+</p>
+
 ## 📈 GitHub Activity Graph
 
 [![Ankush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ankush-48&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
