@@ -1,5 +1,7 @@
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6e40c9,100:00c6ff&text=ANKUSH%20YADAV&fontSize=50&fontColor=fff&animation=fadeIn"/>
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:06B6D4,100:14B8A6&height=320&section=header&text=ANKUSH%20YADAV&fontSize=58&fontColor=ffffff&animation=twinkling&desc=Bachelor%20of%20Technology%20(B.Tech)%20%7C%20Computer%20Science%20and%20Engineering%20%7C%20Presidency%20University,%20Bengaluru&descAlignY=67&descSize=21"/>
+</p>
 
 # 💫 About Me
 
