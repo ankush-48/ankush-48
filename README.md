@@ -1,3 +1,6 @@
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6e40c9,100:00c6ff&text=ANKUSH%20YADAV&fontSize=50&fontColor=fff&animation=fadeIn"/>
+
 # 💫 About Me
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
@@ -56,7 +59,7 @@ Building production-ready AI applications that are scalable, reliable, and solve
 ### 💡 Learn relentlessly. Build fearlessly. Ship consistently.
 
 ⭐ *"The best way to predict the future is to build it."*
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6e40c9,100:00c6ff&text=ANKUSH%20YADAV&fontSize=50&fontColor=fff&animation=fadeIn"/>
+
 </div>
 
 
