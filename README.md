@@ -41,8 +41,13 @@ Building production-ready AI applications that are scalable, reliable, and solve
 ![](https://streak-stats.demolab.com/?user=ankush-48&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ankush-48&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ankush-48&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🐍 Contribution Graph
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankush-48/ankush-48/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankush-48/ankush-48/output/github-contribution-grid-snake.svg">
+<img alt="snake" src="https://raw.githubusercontent.com/ankush-48/ankush-48/output/github-contribution-grid-snake.svg">
+</picture>
 
 # ✨ Developer Philosophy
 
