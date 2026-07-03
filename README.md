@@ -1,6 +1,6 @@
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:06B6D4,100:14B8A6&height=340&section=header&text=ANKUSH%20YADAV&fontSize=60&fontColor=ffffff&animation=twinkling&desc=Bachelor%20of%20Technology%20(B.Tech)%20%7C%20Computer%20Science%20and%20Engineering%0APresidency%20University,%20Bengaluru&descAlignY=68&descSize=21"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:06B6D4,100:14B8A6&height=340&section=header&text=ANKUSH%20YADAV&fontSize=60&fontColor=ffffff&animation=twinkling&desc=Bachelor%20of%20Technology%0AComputer%20Science%20and%20Engineering%0APresidency%20University,%20Bengaluru&descAlignY=72&descSize=20"/>
 </p>
 
 # 💫 About Me
