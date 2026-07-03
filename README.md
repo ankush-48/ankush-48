@@ -47,7 +47,7 @@ Building production-ready AI applications that are scalable, reliable, and solve
 
 [![Ankush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ankush-48&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6e40c9,100:00c6ff"/>
-
+![](https://github-readme-activity-graph.vercel.app/graph?username=ankush-48&theme=tokyo-night)
 # ✨ Developer Philosophy
 
 <div align="center">
