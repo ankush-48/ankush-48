@@ -41,6 +41,14 @@ Building production-ready AI applications that are scalable, reliable, and solve
 ![](https://streak-stats.demolab.com/?user=ankush-48&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ankush-48&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 🐍 Contribution Graph
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankush-48/ankush-48/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankush-48/ankush-48/output/github-contribution-grid-snake.svg">
+<img alt="snake" src="https://raw.githubusercontent.com/ankush-48/ankush-48/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=ankush-48&label=Profile%20Views&color=blueviolet&style=for-the-badge)
