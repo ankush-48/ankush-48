@@ -41,7 +41,7 @@ Building production-ready AI applications that are scalable, reliable, and solve
 ![](https://streak-stats.demolab.com/?user=ankush-48&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ankush-48&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <p align="center">
-<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="700"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 ## 📈 GitHub Activity Graph
 
