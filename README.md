@@ -93,17 +93,11 @@ Building production-ready AI applications that are scalable, reliable, and solve
 <img src="https://user-images.githubusercontent.com/.../earth.gif">
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankush-48&theme=github_dark"/>
-</p>
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankush-48&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankush-48&theme=github_dark&utcOffset=5.5"/>
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ankush-48&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankush-48&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankush-48&theme=github_dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankush-48&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ## 📈 GitHub Activity Graph
