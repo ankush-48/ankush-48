@@ -47,11 +47,76 @@ Building production-ready AI applications that are scalable, reliable, and solve
 
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankush-yadav-a896a525a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ay3068756@gmail.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge)](https://ankush-yadav.netlify.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankush-yadav48) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ay3068756@gmail.com)
+
+---
+
+## 💼 Experience
+
+### Mphasis Ltd · Associate Software Engineer Intern
+*Feb 2026 – Apr 2026 · Bengaluru, India*
+
+- Built 12+ REST endpoints with Java and Spring Boot, with sub-200 ms response times in concurrent request benchmarks.
+- Reduced database response times by 20% across 15+ relational tables by optimizing MySQL queries and tuning Hibernate mappings.
+- Improved page-load speed by 25% across 10+ responsive frontend modules built with HTML, CSS, Bootstrap, and TypeScript.
+
+### Evoastra Ventures · Data Science Intern, Data & Pipelines
+*Jul 2025 – Aug 2025 · Remote*
+
+- Automated daily data collection with BeautifulSoup and Selenium, processing 50,000+ data points and saving 15+ hours of manual research per week.
+- Built a DenseNet201 CNN–LSTM image captioning model and served it through Flask.
+- Improved inference speed by 30% in benchmarks through tuning, custom tokenization, and optimized feature extraction.
+
+---
+
+## 🚀 Selected Projects
+
+### AI Multi-Agent Social Debate System
+*Python · LangChain · LangGraph · FAISS · Sentence-Transformers · Groq*
+
+Built a debate system that coordinates five or more LLM personas using LangGraph. Added FAISS-based semantic routing, retrieval-augmented conversation memory, and prompt-injection checks.
+
+[Source code](https://github.com/ankush-48/AI-Multi-Agent-Social-Debate-System)
+
+### Automated Enterprise RAG Analytics Agent
+*Python · LangChain · Llama 3.3 · Groq · Pydantic v2 · Pandas*
+
+Built a pipeline that turns project records into validated, structured analytics. Used Pydantic to validate model output and a multithreaded scheduler to process 50+ project profiles concurrently.
+
+### Relay · Offline-First Payment Network Simulator
+*Java 17 · Spring Boot · JavaScript · H2 · IndexedDB*
+
+Built a UPI-style payment simulator that queues transfers offline and syncs them on reconnect. Used AES-GCM and RSA-OAEP to encrypt payment packets, plus idempotency keys, freshness checks, and transactional ledger updates to handle duplicate and concurrent arrivals.
+
+[Live demo](https://relay-offline-payment-demo.onrender.com/)
+
+### Containerized Flask REST API on AWS EKS
+*Python · Flask · Docker · Kubernetes · AWS EKS · MongoDB*
+
+Deployed a multi-replica Flask API with CPU-based autoscaling from two to five pods. Ran MongoDB as a StatefulSet with EBS-backed persistent storage and stored credentials in Kubernetes Secrets.
+
+### Wind Vintage · UK Wind Forecast Accuracy
+*Python · FastAPI · React · Elexon BMRS · Docker*
+
+Built a dashboard that matches UK wind generation forecasts with actuals using a configurable day-ahead cutoff. Processed 20,700+ records, exposed forecast error, bias, and coverage, and added CSV export and backend tests.
+
+[Live dashboard](https://k7v3m9q2-five.vercel.app)
+
+### Fear & Greed vs. Profit · Crypto Trading Analysis
+*Python · Pandas · Matplotlib · Seaborn*
+
+Combined 480 days of Hyperliquid trades with the Bitcoin Fear & Greed Index. Compared trading behavior across five sentiment regimes and found average PnL of about $31 per trade in Fear versus $64 in Neutral in the analyzed dataset.
+
+[Source code](https://github.com/ankush-48/Fear-Greed-vs-Profit-A-Behavioral-Analysis-of-Crypto-Trading)
 
 ---
 
 ## 💻 Tech Stack
+
+- **LLMs & agents** · LangChain, LangGraph, RAG, FAISS, Sentence-Transformers, Groq, and Llama 3.3.
+- **Software & infrastructure** · Spring Boot, Hibernate, REST APIs, Docker Compose, AWS EKS, and SQL.
+- **Data & ML** · Exploratory data analysis, feature engineering, statistical modeling, CNNs, LSTMs, Tableau, and Seaborn.
 
 ### Languages & Markup
 
@@ -142,6 +207,29 @@ Building production-ready AI applications that are scalable, reliable, and solve
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🎓 Education
+
+**Presidency University**, Bengaluru  
+B.Tech in Computer Science and Engineering · Dec 2022 – Nov 2026 · CGPA 7.7/10
+
+## 📜 Certifications & Training
+
+- **AWS** · AWS Certified Cloud Practitioner
+- **Google Cloud** · GenAI Studio
+- **Microsoft** · Azure Essentials, Azure AI Essentials, Career Essentials in Software Development, and Career Essentials in Data Analysis
+- **HP** · HP Data Analytics
+- **Cisco** · Networking Basics
+
+## 🏆 Achievements
+
+- **CICADA 2023 Hackathon** · Led a four-person team through a 24-hour build at Atria Institute of Technology.
+- **CodeChef Silver Problem Solver** · Solved 270+ data structures and algorithms problems in Java and Python.
+- **Presidency University Innovation Expo** · Selected among the top 70 of 450 teams in May 2023.
+
+[CodeChef](https://www.codechef.com/users/ankush48) · [LeetCode](https://leetcode.com/u/Ankush48/)
 
 ---
 
