@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href="https://ankush-yadav.netlify.app/"><img src="assets/hero.svg" width="100%" alt="Ankush Yadav, AI and software engineering in Bengaluru"/></a>
+<a href="https://ankush-yadav.netlify.app/"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/hero.svg" width="100%" alt="Ankush Yadav, AI and software engineering in Bengaluru"/></a>
 
-<img src="assets/marquee.svg" width="100%" alt="Mphasis, Evoastra Ventures, AWS Certified Cloud Practitioner"/>
+<img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/marquee.svg" width="100%" alt="Mphasis, Evoastra Ventures, AWS Certified Cloud Practitioner"/>
 
 <a href="https://ankush-yadav.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-141b30?style=for-the-badge&amp;labelColor=4338ca" alt="Visit"/></a>
 <a href="#selected-work"><img src="https://img.shields.io/badge/01-WORK-141b30?style=for-the-badge&amp;labelColor=4338ca" alt="Work"/></a>
@@ -11,17 +11,17 @@
 <a href="https://linkedin.com/in/ankush-yadav48"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-141b30?style=for-the-badge&amp;labelColor=4338ca" alt="Connect"/></a>
 <a href="mailto:ay3068756@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-141b30?style=for-the-badge&amp;labelColor=4338ca" alt="Contact"/></a>
 
-<img src="assets/proof.svg" width="100%" alt="12+ REST endpoints, 270+ DSA problems, top 70 of 450 expo teams"/>
+<img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/proof.svg" width="100%" alt="12+ REST endpoints, 270+ DSA problems, top 70 of 450 expo teams"/>
 
 </div>
 
 ## Flagship
 
-<div align="center"><img src="assets/section-01.svg" width="100%" alt="Flagship"/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/section-01.svg" width="100%" alt="Flagship"/></div>
 
 ### AI Multi-Agent Social Debate System
 
-<a href="https://github.com/ankush-48/AI-Multi-Agent-Social-Debate-System"><img src="assets/flagship.svg" width="100%" alt="Debate prompts route through LangGraph to LLM personas with FAISS-backed memory"/></a>
+<a href="https://github.com/ankush-48/AI-Multi-Agent-Social-Debate-System"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/flagship.svg" width="100%" alt="Debate prompts route through LangGraph to LLM personas with FAISS-backed memory"/></a>
 
 *Python · LangChain · LangGraph · FAISS · Sentence-Transformers · Groq*
 
@@ -31,11 +31,11 @@ Built a debate system that coordinates five or more LLM personas using LangGraph
 
 ## Selected Work
 
-<div align="center"><img src="assets/section-02.svg" width="100%" alt="Selected Work"/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/section-02.svg" width="100%" alt="Selected Work"/></div>
 
 <table>
-<tr><td width="50%" valign="top"><img src="assets/card-relay.svg" width="100%" alt="Relay · Offline-First Payment Network Simulator"/><br/>Built a UPI-style payment simulator that queues transfers offline and syncs them on reconnect. Used AES-GCM and RSA-OAEP to encrypt payment packets, plus idempotency keys, freshness checks, and transactional ledger updates to handle duplicate and concurrent arrivals.<br/><a href="https://relay-offline-payment-demo.onrender.com/">Live demo</a></td><td width="50%" valign="top"><img src="assets/card-wind.svg" width="100%" alt="Wind Vintage · UK Wind Forecast Accuracy"/><br/>Built a dashboard that matches UK wind generation forecasts with actuals using a configurable day-ahead cutoff. Processed 20,700+ records, exposed forecast error, bias, and coverage, and added CSV export and backend tests.<br/><a href="https://k7v3m9q2-five.vercel.app">Live dashboard</a></td></tr>
-<tr><td width="50%" valign="top"><img src="assets/card-analytics.svg" width="100%" alt="Automated Enterprise RAG Analytics Agent"/><br/>Built a pipeline that turns project records into validated, structured analytics. Used Pydantic to validate model output and a multithreaded scheduler to process 50+ project profiles concurrently.</td><td width="50%" valign="top"><img src="assets/card-eks.svg" width="100%" alt="Containerized Flask REST API on AWS EKS"/><br/>Deployed a multi-replica Flask API with CPU-based autoscaling from two to five pods. Ran MongoDB as a StatefulSet with EBS-backed persistent storage and stored credentials in Kubernetes Secrets.</td></tr>
+<tr><td width="50%" valign="top"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/card-relay.svg" width="100%" alt="Relay · Offline-First Payment Network Simulator"/><br/>Built a UPI-style payment simulator that queues transfers offline and syncs them on reconnect. Used AES-GCM and RSA-OAEP to encrypt payment packets, plus idempotency keys, freshness checks, and transactional ledger updates to handle duplicate and concurrent arrivals.<br/><a href="https://relay-offline-payment-demo.onrender.com/">Live demo</a></td><td width="50%" valign="top"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/card-wind.svg" width="100%" alt="Wind Vintage · UK Wind Forecast Accuracy"/><br/>Built a dashboard that matches UK wind generation forecasts with actuals using a configurable day-ahead cutoff. Processed 20,700+ records, exposed forecast error, bias, and coverage, and added CSV export and backend tests.<br/><a href="https://k7v3m9q2-five.vercel.app">Live dashboard</a></td></tr>
+<tr><td width="50%" valign="top"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/card-analytics.svg" width="100%" alt="Automated Enterprise RAG Analytics Agent"/><br/>Built a pipeline that turns project records into validated, structured analytics. Used Pydantic to validate model output and a multithreaded scheduler to process 50+ project profiles concurrently.</td><td width="50%" valign="top"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/card-eks.svg" width="100%" alt="Containerized Flask REST API on AWS EKS"/><br/>Deployed a multi-replica Flask API with CPU-based autoscaling from two to five pods. Ran MongoDB as a StatefulSet with EBS-backed persistent storage and stored credentials in Kubernetes Secrets.</td></tr>
 </table>
 
 | More work | What it does | Result |
@@ -44,7 +44,7 @@ Built a debate system that coordinates five or more LLM personas using LangGraph
 
 ## Achievements
 
-<div align="center"><img src="assets/section-03.svg" width="100%" alt="Achievements"/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/section-03.svg" width="100%" alt="Achievements"/></div>
 
 - **CICADA 2023 Hackathon** · Led a four-person team through a 24-hour build at Atria Institute of Technology.
 - **CodeChef Silver Problem Solver** · Solved 270+ data structures and algorithms problems in Java and Python.
@@ -54,7 +54,7 @@ Built a debate system that coordinates five or more LLM personas using LangGraph
 
 ## Experience
 
-<div align="center"><img src="assets/section-04.svg" width="100%" alt="Experience"/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/section-04.svg" width="100%" alt="Experience"/></div>
 
 <details open>
 <summary><b>Mphasis Ltd · Associate Software Engineer Intern</b></summary>
@@ -238,7 +238,7 @@ Building production-ready AI applications that are scalable, reliable, and solve
 
 ## Live from GitHub
 
-<div align="center"><img src="assets/section-05.svg" width="100%" alt="Live from GitHub"/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/section-05.svg" width="100%" alt="Live from GitHub"/></div>
 
 [View the contribution calendar](https://github.com/ankush-48#contributions-calendar) · [Browse repositories](https://github.com/ankush-48?tab=repositories)
 
