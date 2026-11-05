@@ -64,22 +64,9 @@ Built a UPI-style payment simulator that queues transfers offline and syncs them
 
 <a href="https://relay-offline-payment-demo.onrender.com/">Live demo</a> · <a href="https://github.com/ankush-48/relay-offline-payment-demo">Source code</a>
 
-#### Architecture and payment flow
+<img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/relay-architecture.svg?v=2" width="100%" alt="Animated simulation of Relay’s payment flow from offline queue to encryption, mesh forwarding, bridge validation, and ledger confirmation"/>
 
-<img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/relay-architecture.svg" width="100%" alt="Animated architecture diagram: browser queue, Spring Boot encryption, virtual peer mesh, bridge validation, and H2 ledger settlement"/>
-
-1. **Queue locally.** The browser saves a payment request in IndexedDB, with a localStorage fallback. The request waits for connectivity and an active demo session.
-2. **Seal and forward.** The server encrypts the payload with AES-GCM, wraps the key with RSA-OAEP, and sends the envelope through the simulated peer mesh.
-3. **Validate at the bridge.** The bridge decrypts the request, checks freshness and idempotency, and attempts settlement. A transient sync failure leaves the request available for retry.
-4. **Confirm at the ledger.** The simulated ledger validates balances and updates them in a transaction. The UI shows confirmation after a settled response.
-
-<img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/relay-states.svg" width="100%" alt="State diagram: queued, syncing, validating, and confirmed only after settlement"/>
-
-#### Try it live
-
-[Open guest sandbox](https://relay-offline-payment-demo.onrender.com/) · [Dashboard and cashflow](https://relay-offline-payment-demo.onrender.com/#/dashboard) · [Send a simulated payment](https://relay-offline-payment-demo.onrender.com/#/dashboard/send) · [Live network monitor](https://relay-offline-payment-demo.onrender.com/#/dashboard/system)
-
-Enter **Guest access** first. In the network monitor, use **Refresh telemetry** to inspect API response time, mesh nodes and the local queue. The dashboard shows simulated cashflow and ledger activity after settlement.
+[Live dashboard](https://relay-offline-payment-demo.onrender.com/#/dashboard) · [Try a payment](https://relay-offline-payment-demo.onrender.com/#/dashboard/send) · [Live network monitor](https://relay-offline-payment-demo.onrender.com/#/dashboard/system)
 
 #### Relay in action
 
