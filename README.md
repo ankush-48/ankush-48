@@ -46,7 +46,9 @@ Building production-ready AI applications that are scalable, reliable, and solve
 
 ## Contribution Snake
 
-<img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/github/contribution-snake.svg" width="100%" alt="Animated Pac-Man-style snake eating dots from Ankush Yadav’s GitHub contribution calendar"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Platane contribution snake animation"/>
+</p>
 
 ## Flagship
 
