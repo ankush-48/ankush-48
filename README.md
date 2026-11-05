@@ -62,28 +62,28 @@ Enter **Guest access** first. In the network monitor, use **Refresh telemetry** 
 
 <table>
 <tr>
-<td colspan="2" align="center">
-<a href="https://k7v3m9q2-five.vercel.app"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/wind-generation.png" width="100%" alt="Wind Vintage dashboard showing actual versus forecast wind generation"/></a><br/>
+<td width="50%" valign="top">
+<a href="https://k7v3m9q2-five.vercel.app"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/project-wind-preview.svg" width="100%" alt="Wind Vintage, UK wind forecast accuracy dashboard. Screenshot shows actual versus forecast generation. Analyzed 20,700+ records with forecast error, bias, and coverage metrics."/></a><br/>
 <a href="https://k7v3m9q2-five.vercel.app">Live dashboard</a> · <a href="https://github.com/ankush-48/k7v3m9q2">Code</a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/ankush-48/AI-Multi-Agent-Social-Debate-System"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/project-debate.svg" width="100%" alt="Multi-Agent Debate — An LLM debate system with memory. Debate prompt, then LangGraph routing, then FAISS-backed memory. 5+ LLM personas."/></a><br/>
 <a href="https://github.com/ankush-48/AI-Multi-Agent-Social-Debate-System">Code</a>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/ankush-48/ai-project-health-reporting-agent"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/project-analytics.svg" width="100%" alt="Enterprise RAG — Structured project health analytics. Project records, then Retrieval + LLM, then Pydantic validation. 50+ profiles processed concurrently."/></a><br/>
 <a href="https://github.com/ankush-48/ai-project-health-reporting-agent">Code</a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/ankush-48/Containerized-Flask-REST-API-with-Kubernetes-MongoDB"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/project-eks.svg" width="100%" alt="Flask on AWS EKS — Containerized API with persistent storage. HTTP requests, then Flask replicas, then MongoDB + EBS. Autoscaling from 2 to 5 pods."/></a><br/>
 <a href="https://github.com/ankush-48/Containerized-Flask-REST-API-with-Kubernetes-MongoDB">Code</a>
 </td>
-<td width="50%" valign="top">
-<a href="https://github.com/ankush-48/Fear-Greed-vs-Profit-A-Behavioral-Analysis-of-Crypto-Trading"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/project-sentiment.svg" width="100%" alt="Fear &amp; Greed vs. Profit — Crypto trading across sentiment regimes. Hyperliquid trades, then Sentiment index, then PnL comparison. 480 days of trading data."/></a><br/>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<a href="https://github.com/ankush-48/Fear-Greed-vs-Profit-A-Behavioral-Analysis-of-Crypto-Trading"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/project-sentiment.svg" width="50%" alt="Fear &amp; Greed vs. Profit — Crypto trading across sentiment regimes. Hyperliquid trades, then Sentiment index, then PnL comparison. 480 days of trading data."/></a><br/>
 <a href="https://github.com/ankush-48/Fear-Greed-vs-Profit-A-Behavioral-Analysis-of-Crypto-Trading">Code</a>
 </td>
 </tr>
