@@ -93,6 +93,10 @@ Built a debate system that coordinates five or more LLM personas using LangGraph
 
 </details>
 
+## Live from GitHub
+
+<a href="https://github.com/ankush-48#contributions-calendar"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/github/contribution-heatmap.svg" width="100%" alt="GitHub contribution heatmap and statistics for Ankush Yadav"/></a>
+
 ### Education
 
 **Presidency University**, Bengaluru  
@@ -252,20 +256,10 @@ Building production-ready AI applications that are scalable, reliable, and solve
 
 </details>
 
-## Live from GitHub
-
-<div align="center"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/section-05.svg" width="100%" alt="Live from GitHub"/></div>
-
-[View the contribution calendar](https://github.com/ankush-48#contributions-calendar) · [Browse repositories](https://github.com/ankush-48?tab=repositories)
-
-### Contribution activity
-
-<img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/github/activity-graph.svg" alt="Ankush&#x27;s GitHub activity graph" width="100%"/>
-
-### Stats, streak, and languages
+## More GitHub Stats
 
 <table>
-<tr><td width="50%"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/github/account-stats.svg" alt="GitHub account statistics" width="100%"/></td><td width="50%"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/github/streak.svg" alt="GitHub contribution streak" width="100%"/></td></tr>
+<tr><td width="50%"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/github/account-stats.svg" alt="GitHub account statistics" width="100%"/></td><td width="50%"><a href="https://github.com/ankush-48#contributions-calendar">View GitHub’s contribution calendar</a></td></tr>
 <tr><td width="50%"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/github/top-languages.svg" alt="Top languages" width="100%"/></td><td width="50%"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/github/profile-details.svg" alt="Profile details" width="100%"/></td></tr>
 <tr><td width="50%"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/github/summary-stats.svg" alt="Profile summary statistics" width="100%"/></td><td width="50%"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/github/activity-by-hour.svg" alt="Commit activity by hour, UTC+5:30" width="100%"/></td></tr>
 <tr><td width="50%"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/github/repos-per-language.svg" alt="Repositories per language" width="100%"/></td><td width="50%"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/github/commits-per-language.svg" alt="Commits per language" width="100%"/></td></tr>

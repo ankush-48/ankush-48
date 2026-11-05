@@ -7,6 +7,7 @@ on:
       - .github/workflows/refresh-profile-charts.yml
       - scripts/github-charts.json
       - scripts/refresh_github_charts.py
+      - scripts/render_contribution_heatmap.py
   schedule:
     - cron: '23 3 * * *'
   workflow_dispatch:
@@ -27,7 +28,9 @@ jobs:
         with:
           ref: main
       - name: Refresh cached SVGs
-        run: python3 scripts/refresh_github_charts.py
+        run: |
+          python3 scripts/render_contribution_heatmap.py
+          python3 scripts/refresh_github_charts.py
       - name: Publish updated charts
         run: |
           git add -- assets/github
