@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="266" viewBox="0 0 960 266" role="img">
+<title>Relay transaction states and settlement boundary</title>
+<defs>
+<linearGradient id="surface" x2="1" y2="1"><stop stop-color="#090b10"/><stop offset="1" stop-color="#181022"/></linearGradient>
+<linearGradient id="signal"><stop stop-color="#bd9cff"/><stop offset="1" stop-color="#59e7c5"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#362742" opacity=".46"/></pattern>
+<marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M1 1l5 3-5 3" fill="none" stroke="#b5aec4"/></marker>
+</defs>
+<rect x="1" y="1" width="958" height="264" rx="22" fill="url(#surface)" stroke="#322840"/>
+<rect x="2" y="2" width="956" height="262" rx="21" fill="url(#grid)"/>
+<g font-family="system-ui, Segoe UI, sans-serif">
+<text x="39" y="48" fill="#bd9cff" font-size="16" font-weight="700">03   /   TRANSACTION STATE</text><text x="39" y="87" fill="#f6f2ff" font-size="30" font-weight="700">When does a payment count?</text><rect x="39" y="112" width="204" height="95" rx="16" fill="#15121e" stroke="#322840"/><text x="53" y="146" fill="#bd9cff" font-size="21" font-weight="700">Queued</text><text x="53" y="176" fill="#b5aec4" font-size="14" font-weight="400">Saved on this device</text><path d="M244 160h18" stroke="#b5aec4" marker-end="url(#arrow)"/><rect x="265" y="112" width="204" height="95" rx="16" fill="#15121e" stroke="#322840"/><text x="279" y="146" fill="#e6a1eb" font-size="21" font-weight="700">Syncing</text><text x="279" y="176" fill="#b5aec4" font-size="14" font-weight="400">Forwarding on reconnect</text><path d="M470 160h18" stroke="#b5aec4" marker-end="url(#arrow)"/><rect x="491" y="112" width="204" height="95" rx="16" fill="#15121e" stroke="#322840"/><text x="505" y="146" fill="#ffcd88" font-size="21" font-weight="700">Validating</text><text x="505" y="176" fill="#b5aec4" font-size="14" font-weight="400">Bridge checks the packet</text><path d="M696 160h18" stroke="#b5aec4" marker-end="url(#arrow)"/><rect x="717" y="112" width="204" height="95" rx="16" fill="#15121e" stroke="#322840"/><text x="731" y="146" fill="#59e7c5" font-size="21" font-weight="700">Confirmed</text><text x="731" y="176" fill="#b5aec4" font-size="14" font-weight="400">Ledger has settled it</text><text x="39" y="240" fill="#b5aec4" font-size="16" font-weight="400">Queued and syncing requests do not change the simulated balance.</text>
+</g>
+</svg>

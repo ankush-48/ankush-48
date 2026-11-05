@@ -4,12 +4,12 @@
 
 <img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/marquee.svg" width="100%" alt="Mphasis, Evoastra Ventures, AWS Certified Cloud Practitioner"/>
 
-<a href="https://ankush-yadav.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-141b30?style=for-the-badge&amp;labelColor=4338ca" alt="Visit"/></a>
-<a href="#selected-work"><img src="https://img.shields.io/badge/01-WORK-141b30?style=for-the-badge&amp;labelColor=4338ca" alt="Work"/></a>
-<a href="#achievements"><img src="https://img.shields.io/badge/02-WINS-141b30?style=for-the-badge&amp;labelColor=4338ca" alt="Wins"/></a>
-<a href="#experience"><img src="https://img.shields.io/badge/03-EXPERIENCE-141b30?style=for-the-badge&amp;labelColor=4338ca" alt="Experience"/></a>
-<a href="https://linkedin.com/in/ankush-yadav48"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-141b30?style=for-the-badge&amp;labelColor=4338ca" alt="Connect"/></a>
-<a href="mailto:ay3068756@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-141b30?style=for-the-badge&amp;labelColor=4338ca" alt="Contact"/></a>
+<a href="https://ankush-yadav.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-17131f?style=for-the-badge&amp;labelColor=6d41a1" alt="Visit"/></a>
+<a href="#selected-work"><img src="https://img.shields.io/badge/01-WORK-17131f?style=for-the-badge&amp;labelColor=6d41a1" alt="Work"/></a>
+<a href="#achievements"><img src="https://img.shields.io/badge/02-WINS-17131f?style=for-the-badge&amp;labelColor=6d41a1" alt="Wins"/></a>
+<a href="#experience"><img src="https://img.shields.io/badge/03-EXPERIENCE-17131f?style=for-the-badge&amp;labelColor=6d41a1" alt="Experience"/></a>
+<a href="https://linkedin.com/in/ankush-yadav48"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-17131f?style=for-the-badge&amp;labelColor=6d41a1" alt="Connect"/></a>
+<a href="mailto:ay3068756@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-17131f?style=for-the-badge&amp;labelColor=6d41a1" alt="Contact"/></a>
 
 <img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/proof.svg" width="100%" alt="12+ REST endpoints, 270+ DSA problems, top 70 of 450 expo teams"/>
 
@@ -21,13 +21,32 @@
 
 ### Relay · Offline-First Payment Network Simulator
 
-<a href="https://relay-offline-payment-demo.onrender.com/"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/flagship-relay.svg" width="100%" alt="Relay payment flow from offline queue through encrypted mesh to the simulated ledger"/></a>
+<a href="https://relay-offline-payment-demo.onrender.com/"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/flagship-relay.svg?v=2" width="100%" alt="Relay payment flow from offline queue through encrypted mesh to the simulated ledger"/></a>
 
 *Java 17 · Spring Boot · JavaScript · H2 · IndexedDB*
 
 Built a UPI-style payment simulator that queues transfers offline and syncs them on reconnect. Used AES-GCM and RSA-OAEP to encrypt payment packets, plus idempotency keys, freshness checks, and transactional ledger updates to handle duplicate and concurrent arrivals.
 
 <a href="https://relay-offline-payment-demo.onrender.com/">Live demo</a> · <a href="https://github.com/ankush-48/relay-offline-payment-demo">Source code</a>
+
+#### Architecture and payment flow
+
+<img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/relay-architecture.svg" width="100%" alt="Animated architecture diagram: browser queue, Spring Boot encryption, virtual peer mesh, bridge validation, and H2 ledger settlement"/>
+
+1. **Queue locally.** The browser saves a payment request in IndexedDB, with a localStorage fallback. The request waits for connectivity and an active demo session.
+2. **Seal and forward.** The server encrypts the payload with AES-GCM, wraps the key with RSA-OAEP, and sends the envelope through the simulated peer mesh.
+3. **Validate at the bridge.** The bridge decrypts the request, checks freshness and idempotency, and attempts settlement. A transient sync failure leaves the request available for retry.
+4. **Confirm at the ledger.** The simulated ledger validates balances and updates them in a transaction. The UI shows confirmation after a settled response.
+
+<img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/relay-states.svg" width="100%" alt="State diagram: queued, syncing, validating, and confirmed only after settlement"/>
+
+#### Try it live
+
+[Open guest sandbox](https://relay-offline-payment-demo.onrender.com/) · [Dashboard and cashflow](https://relay-offline-payment-demo.onrender.com/#/dashboard) · [Send a simulated payment](https://relay-offline-payment-demo.onrender.com/#/dashboard/send) · [Live network monitor](https://relay-offline-payment-demo.onrender.com/#/dashboard/system)
+
+Enter **Guest access** first. In the network monitor, use **Refresh telemetry** to inspect API response time, mesh nodes and the local queue. The dashboard shows simulated cashflow and ledger activity after settlement.
+
+#### Relay in action
 
 <div align="center">
 <a href="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-home.png"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-home.png" width="49%" alt="Relay landing page"/></a> <a href="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-lifecycle.png"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-lifecycle.png" width="49%" alt="Offline payment request lifecycle"/></a>

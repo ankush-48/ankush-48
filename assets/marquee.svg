@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="72" viewBox="0 0 960 72" role="img">
 <title>Experience and focus</title>
-<defs><linearGradient id="accent"><stop stop-color="#818cf8"/><stop offset="1" stop-color="#22d3ee"/></linearGradient></defs>
-<rect x="1" y="1" width="958" height="70" rx="18" fill="#101527" stroke="#293450"/>
+<defs><linearGradient id="accent"><stop stop-color="#bd9cff"/><stop offset="1" stop-color="#59e7c5"/></linearGradient></defs>
+<rect x="1" y="1" width="958" height="70" rx="18" fill="#090b10" stroke="#322840"/>
 <rect x="18" y="18" width="4" height="36" rx="2" fill="url(#accent)"/>
-<g font-family="Verdana, sans-serif"><text x="44" y="44" fill="#a5b2cd" font-size="19" font-weight="700">MPHASIS   /   EVOASTRA VENTURES   /   AWS CERTIFIED CLOUD PRACTITIONER</text></g>
+<g font-family="Verdana, sans-serif"><text x="44" y="44" fill="#b5aec4" font-size="19" font-weight="700">MPHASIS   /   EVOASTRA VENTURES   /   AWS CERTIFIED CLOUD PRACTITIONER</text></g>
 </svg>
