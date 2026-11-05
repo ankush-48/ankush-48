@@ -63,7 +63,7 @@ Enter **Guest access** first. In the network monitor, use **Refresh telemetry** 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://k7v3m9q2-five.vercel.app"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/project-wind.svg" width="100%" alt="Wind Vintage — UK wind forecast accuracy. Elexon data, then Day-ahead cutoff, then Error and bias. 20,700+ records processed."/></a><br/>
+<a href="https://k7v3m9q2-five.vercel.app"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/wind-generation.png" width="100%" alt="Wind Vintage dashboard showing actual versus forecast wind generation"/></a><br/>
 <a href="https://k7v3m9q2-five.vercel.app">Live dashboard</a> · <a href="https://github.com/ankush-48/k7v3m9q2">Code</a>
 </td>
 <td width="50%" valign="top">
