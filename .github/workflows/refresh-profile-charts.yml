@@ -8,6 +8,7 @@ on:
       - scripts/github-charts.json
       - scripts/refresh_github_charts.py
       - scripts/render_contribution_heatmap.py
+      - scripts/render_contribution_snake.py
   schedule:
     - cron: '23 3 * * *'
   workflow_dispatch:
@@ -30,6 +31,7 @@ jobs:
       - name: Refresh cached SVGs
         run: |
           python3 scripts/render_contribution_heatmap.py
+          python3 scripts/render_contribution_snake.py
           python3 scripts/refresh_github_charts.py
       - name: Publish updated charts
         run: |
