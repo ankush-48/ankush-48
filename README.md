@@ -1,6 +1,6 @@
-## About Me
+# About Me
 
-🚀 **AI Engineer | Software Developer | Full-Stack Enthusiast | Problem Solver**
+### 🚀 **AI Engineer | Software Developer | Full-Stack Enthusiast | Problem Solver**
 
 💡 Passionate about building intelligent systems that combine **AI, LLMs, RAG, Agentic AI, Machine Learning, Cloud, and Full-Stack Development** to solve real-world problems.
 
@@ -8,22 +8,22 @@
   <img alt="Coding animation" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 </p>
 
-### 🔭 Currently Building
+## 🔭 Currently Building
 ✨ AI Agents • 🤖 LLM Applications • 🧠 RAG Pipelines • 🌐 Full-Stack AI Products • ⚡ Intelligent Automation
 
-### 🌱 Currently Learning
+## 🌱 Currently Learning
 📚 Multi-Agent AI • 🕸️ LangGraph • ☸️ Kubernetes • 🚀 MLOps • ☁️ AWS & GCP • 🔄 CI/CD • 🗄️ Vector Databases • 🧩 Prompt Engineering
 
-### 👯 Open to Collaborate On
+## 👯 Open to Collaborate On
 🤝 AI/ML • LLM Applications • Open Source • Full-Stack Projects • Computer Vision • Data Science • Agentic AI
 
-### 💬 Ask Me About
+## 💬 Ask Me About
 🐍 Python • ☕ Java • 🔗 LangChain • 🕸️ LangGraph • 📦 FastAPI • 🐳 Docker • ☁️ AWS • 🗄️ SQL • 🧠 TensorFlow • 📊 Data Analytics • 🤖 AI Agents
 
-### 🎯 Current Goal
+## 🎯 Current Goal
 Building production-ready AI applications that are scalable, reliable, and solve meaningful real-world problems.
 
-### ⚡ Fun Fact
+## ⚡ Fun Fact
 💙 I genuinely enjoy learning new technologies, experimenting with AI frameworks, and turning ideas into working products faster than I can write them down. 🚀✨
 
 ---
