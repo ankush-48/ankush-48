@@ -15,40 +15,75 @@
 
 </div>
 
+## Flagship
+
+<div align="center"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/section-01.svg" width="100%" alt="Flagship"/></div>
+
+### Relay · Offline-First Payment Network Simulator
+
+<a href="https://relay-offline-payment-demo.onrender.com/"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/flagship-relay.svg?v=2" width="100%" alt="Relay payment flow from offline queue through encrypted mesh to the simulated ledger"/></a>
+
+*Java 17 · Spring Boot · JavaScript · H2 · IndexedDB*
+
+Built a UPI-style payment simulator that queues transfers offline and syncs them on reconnect. Used AES-GCM and RSA-OAEP to encrypt payment packets, plus idempotency keys, freshness checks, and transactional ledger updates to handle duplicate and concurrent arrivals.
+
+<a href="https://relay-offline-payment-demo.onrender.com/">Live demo</a> · <a href="https://github.com/ankush-48/relay-offline-payment-demo">Source code</a>
+
+#### Architecture and payment flow
+
+<img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/relay-architecture.svg" width="100%" alt="Animated architecture diagram: browser queue, Spring Boot encryption, virtual peer mesh, bridge validation, and H2 ledger settlement"/>
+
+1. **Queue locally.** The browser saves a payment request in IndexedDB, with a localStorage fallback. The request waits for connectivity and an active demo session.
+2. **Seal and forward.** The server encrypts the payload with AES-GCM, wraps the key with RSA-OAEP, and sends the envelope through the simulated peer mesh.
+3. **Validate at the bridge.** The bridge decrypts the request, checks freshness and idempotency, and attempts settlement. A transient sync failure leaves the request available for retry.
+4. **Confirm at the ledger.** The simulated ledger validates balances and updates them in a transaction. The UI shows confirmation after a settled response.
+
+<img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/relay-states.svg" width="100%" alt="State diagram: queued, syncing, validating, and confirmed only after settlement"/>
+
+#### Try it live
+
+[Open guest sandbox](https://relay-offline-payment-demo.onrender.com/) · [Dashboard and cashflow](https://relay-offline-payment-demo.onrender.com/#/dashboard) · [Send a simulated payment](https://relay-offline-payment-demo.onrender.com/#/dashboard/send) · [Live network monitor](https://relay-offline-payment-demo.onrender.com/#/dashboard/system)
+
+Enter **Guest access** first. In the network monitor, use **Refresh telemetry** to inspect API response time, mesh nodes and the local queue. The dashboard shows simulated cashflow and ledger activity after settlement.
+
+#### Relay in action
+
+<div align="center">
+<a href="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-home.png"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-home.png" width="49%" alt="Relay landing page"/></a> <a href="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-lifecycle.png"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-lifecycle.png" width="49%" alt="Offline payment request lifecycle"/></a>
+<br/>
+<a href="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-dashboard.png"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-dashboard.png" width="49%" alt="Guest dashboard and simulated ledger"/></a> <a href="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-send.png"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-send.png" width="49%" alt="Simulated payment form"/></a>
+<br/>
+<a href="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-receive.png"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-receive.png" width="49%" alt="Demo payment identifier"/></a> <a href="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-scan.png"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-scan.png" width="49%" alt="Scan and pay demo with manual recipient lookup"/></a>
+<br/>
+<a href="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-network.png"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-network.png" width="49%" alt="Network monitor and simulated mesh topology"/></a>
+</div>
+
 ## Selected Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://relay-offline-payment-demo.onrender.com/"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/project-relay.svg" width="100%" alt="Relay — Offline-first payment simulator. Offline queue, then Encrypted mesh, then Ledger settlement. Queued requests sync on reconnect."/></a><br/>
-<a href="https://relay-offline-payment-demo.onrender.com/">Live demo</a> · <a href="https://github.com/ankush-48/relay-offline-payment-demo">Code</a><br/>
-<details><summary>Relay architecture and live telemetry</summary>
-<p>IndexedDB saves requests offline, with localStorage as a fallback. On reconnect, Spring Boot seals the request with AES-GCM and RSA-OAEP and forwards it through a simulated peer mesh. The bridge checks freshness and duplicates. H2 settles valid payments in a transaction, and the interface confirms only after settlement.</p>
-<p><a href="https://relay-offline-payment-demo.onrender.com/#/dashboard/send">Try a simulated payment</a> · <a href="https://relay-offline-payment-demo.onrender.com/#/dashboard/system">Live network monitor</a></p>
-</details>
-</td>
-<td width="50%" valign="top">
 <a href="https://k7v3m9q2-five.vercel.app"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/project-wind.svg" width="100%" alt="Wind Vintage — UK wind forecast accuracy. Elexon data, then Day-ahead cutoff, then Error and bias. 20,700+ records processed."/></a><br/>
 <a href="https://k7v3m9q2-five.vercel.app">Live dashboard</a> · <a href="https://github.com/ankush-48/k7v3m9q2">Code</a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/ankush-48/AI-Multi-Agent-Social-Debate-System"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/project-debate.svg" width="100%" alt="Multi-Agent Debate — An LLM debate system with memory. Debate prompt, then LangGraph routing, then FAISS-backed memory. 5+ LLM personas."/></a><br/>
 <a href="https://github.com/ankush-48/AI-Multi-Agent-Social-Debate-System">Code</a>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/ankush-48/ai-project-health-reporting-agent"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/project-analytics.svg" width="100%" alt="Enterprise RAG — Structured project health analytics. Project records, then Retrieval + LLM, then Pydantic validation. 50+ profiles processed concurrently."/></a><br/>
 <a href="https://github.com/ankush-48/ai-project-health-reporting-agent">Code</a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/ankush-48/Containerized-Flask-REST-API-with-Kubernetes-MongoDB"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/project-eks.svg" width="100%" alt="Flask on AWS EKS — Containerized API with persistent storage. HTTP requests, then Flask replicas, then MongoDB + EBS. Autoscaling from 2 to 5 pods."/></a><br/>
 <a href="https://github.com/ankush-48/Containerized-Flask-REST-API-with-Kubernetes-MongoDB">Code</a>
 </td>
-<td width="50%" valign="top">
-<a href="https://github.com/ankush-48/Fear-Greed-vs-Profit-A-Behavioral-Analysis-of-Crypto-Trading"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/project-sentiment.svg" width="100%" alt="Fear &amp; Greed vs. Profit — Crypto trading across sentiment regimes. Hyperliquid trades, then Sentiment index, then PnL comparison. 480 days of trading data."/></a><br/>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<a href="https://github.com/ankush-48/Fear-Greed-vs-Profit-A-Behavioral-Analysis-of-Crypto-Trading"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/project-sentiment.svg" width="50%" alt="Fear &amp; Greed vs. Profit — Crypto trading across sentiment regimes. Hyperliquid trades, then Sentiment index, then PnL comparison. 480 days of trading data."/></a><br/>
 <a href="https://github.com/ankush-48/Fear-Greed-vs-Profit-A-Behavioral-Analysis-of-Crypto-Trading">Code</a>
 </td>
 </tr>
