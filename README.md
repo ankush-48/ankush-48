@@ -50,6 +50,8 @@ Building production-ready AI applications that are scalable, reliable, and solve
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge)](https://ankush-yadav.netlify.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankush-yadav48) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ay3068756@gmail.com)
 
+[Original LinkedIn link](https://www.linkedin.com/in/ankush-yadav-a896a525a/)
+
 ---
 
 ## 💼 Experience
@@ -236,6 +238,45 @@ B.Tech in Computer Science and Engineering · Dec 2022 – Nov 2026 · CGPA 7.7/
 ## 📈 GitHub Activity
 
 [View the contribution calendar](https://github.com/ankush-48#contributions-calendar) · [Browse repositories](https://github.com/ankush-48?tab=repositories)
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub account statistics](https://github-readme-stats.shion.dev/api?username=ankush-48&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+
+![GitHub contribution streak](https://streak-stats.demolab.com/?user=ankush-48&theme=dark&hide_border=false)
+
+![Top languages](https://github-readme-stats.shion.dev/api/top-langs/?username=ankush-48&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankush-48&theme=github_dark)
+
+![Profile summary statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankush-48&theme=github_dark)
+
+![Commit activity by hour, UTC+5:30](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankush-48&theme=github_dark&utcOffset=5.5)
+
+![Repositories per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankush-48&theme=github_dark)
+
+![Commits per language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankush-48&theme=github_dark)
+
+</details>
+
+<details>
+<summary>📈 GitHub Activity Graph</summary>
+
+[![Ankush's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ankush-48&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</details>
+
+<details>
+<summary>🐍 Contribution Snake &amp; Earth</summary>
+
+![Contribution snake animation demo](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+
+*Contribution snake demo from the generator's repository.*
+
+🌍
+
+</details>
 
 ---
 
