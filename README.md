@@ -116,12 +116,6 @@ Enter **Guest access** first. In the network monitor, use **Refresh telemetry** 
 <a href="https://github.com/ankush-48/Containerized-Flask-REST-API-with-Kubernetes-MongoDB">Code</a>
 </td>
 </tr>
-<tr>
-<td colspan="2" align="center">
-<a href="https://github.com/ankush-48/Fear-Greed-vs-Profit-A-Behavioral-Analysis-of-Crypto-Trading"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/project-sentiment.svg" width="50%" alt="Fear &amp; Greed vs. Profit — Crypto trading across sentiment regimes. Hyperliquid trades, then Sentiment index, then PnL comparison. 480 days of trading data."/></a><br/>
-<a href="https://github.com/ankush-48/Fear-Greed-vs-Profit-A-Behavioral-Analysis-of-Crypto-Trading">Code</a>
-</td>
-</tr>
 </table>
 
 ## Achievements
