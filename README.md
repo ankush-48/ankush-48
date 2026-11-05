@@ -84,13 +84,9 @@ Enter **Guest access** first. In the network monitor, use **Refresh telemetry** 
 #### Relay in action
 
 <div align="center">
-<a href="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-home.png"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-home.png" width="49%" alt="Relay landing page"/></a> <a href="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-lifecycle.png"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-lifecycle.png" width="49%" alt="Offline payment request lifecycle"/></a>
+<a href="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-lifecycle.png"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-lifecycle.png" width="49%" alt="Offline payment request lifecycle"/></a> <a href="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-dashboard.png"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-dashboard.png" width="49%" alt="Guest dashboard and simulated ledger"/></a>
 <br/>
-<a href="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-dashboard.png"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-dashboard.png" width="49%" alt="Guest dashboard and simulated ledger"/></a> <a href="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-send.png"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-send.png" width="49%" alt="Simulated payment form"/></a>
-<br/>
-<a href="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-receive.png"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-receive.png" width="49%" alt="Demo payment identifier"/></a> <a href="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-scan.png"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-scan.png" width="49%" alt="Scan and pay demo with manual recipient lookup"/></a>
-<br/>
-<a href="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-network.png"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-network.png" width="49%" alt="Network monitor and simulated mesh topology"/></a>
+<a href="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-send.png"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-send.png" width="49%" alt="Simulated payment form"/></a> <a href="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-network.png"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-network.png" width="49%" alt="Network monitor and simulated mesh topology"/></a>
 </div>
 
 ## Selected Work
