@@ -1,21 +1,96 @@
-# 👋 Hi, I'm Ankush Yadav 🚀
+<div align="center">
 
-💡 **AI Engineer | Software Developer | Full-Stack Builder | Problem Solver**  
-🏅 AWS Certified Cloud Practitioner · CICADA 2023 Hackathon Team Lead · CodeChef Silver Problem Solver
+<a href="https://ankush-yadav.netlify.app/"><img src="assets/hero.svg" width="100%" alt="Ankush Yadav, AI and software engineering in Bengaluru"/></a>
 
-I build AI agents, retrieval-augmented applications, and full-stack tools.
+<img src="assets/marquee.svg" width="100%" alt="Mphasis, Evoastra Ventures, AWS Certified Cloud Practitioner"/>
 
----
+<a href="https://ankush-yadav.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-141b30?style=for-the-badge&amp;labelColor=4338ca" alt="Visit"/></a>
+<a href="#selected-work"><img src="https://img.shields.io/badge/01-WORK-141b30?style=for-the-badge&amp;labelColor=4338ca" alt="Work"/></a>
+<a href="#achievements"><img src="https://img.shields.io/badge/02-WINS-141b30?style=for-the-badge&amp;labelColor=4338ca" alt="Wins"/></a>
+<a href="#experience"><img src="https://img.shields.io/badge/03-EXPERIENCE-141b30?style=for-the-badge&amp;labelColor=4338ca" alt="Experience"/></a>
+<a href="https://linkedin.com/in/ankush-yadav48"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-141b30?style=for-the-badge&amp;labelColor=4338ca" alt="Connect"/></a>
+<a href="mailto:ay3068756@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-141b30?style=for-the-badge&amp;labelColor=4338ca" alt="Contact"/></a>
 
-## 🌐 Connect with me
+<img src="assets/proof.svg" width="100%" alt="12+ REST endpoints, 270+ DSA problems, top 70 of 450 expo teams"/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge)](https://ankush-yadav.netlify.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankush-yadav48) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ay3068756@gmail.com)
+</div>
 
-[Original LinkedIn link](https://www.linkedin.com/in/ankush-yadav-a896a525a/)
+## Flagship
 
----
+<div align="center"><img src="assets/section-01.svg" width="100%" alt="Flagship"/></div>
 
-## 💻 Tech Stack
+### AI Multi-Agent Social Debate System
+
+<a href="https://github.com/ankush-48/AI-Multi-Agent-Social-Debate-System"><img src="assets/flagship.svg" width="100%" alt="Debate prompts route through LangGraph to LLM personas with FAISS-backed memory"/></a>
+
+*Python · LangChain · LangGraph · FAISS · Sentence-Transformers · Groq*
+
+Built a debate system that coordinates five or more LLM personas using LangGraph. Added FAISS-based semantic routing, retrieval-augmented conversation memory, and prompt-injection checks.
+
+[Source code](https://github.com/ankush-48/AI-Multi-Agent-Social-Debate-System)
+
+## Selected Work
+
+<div align="center"><img src="assets/section-02.svg" width="100%" alt="Selected Work"/></div>
+
+<table>
+<tr><td width="50%" valign="top"><img src="assets/card-relay.svg" width="100%" alt="Relay · Offline-First Payment Network Simulator"/><br/>Built a UPI-style payment simulator that queues transfers offline and syncs them on reconnect. Used AES-GCM and RSA-OAEP to encrypt payment packets, plus idempotency keys, freshness checks, and transactional ledger updates to handle duplicate and concurrent arrivals.<br/><a href="https://relay-offline-payment-demo.onrender.com/">Live demo</a></td><td width="50%" valign="top"><img src="assets/card-wind.svg" width="100%" alt="Wind Vintage · UK Wind Forecast Accuracy"/><br/>Built a dashboard that matches UK wind generation forecasts with actuals using a configurable day-ahead cutoff. Processed 20,700+ records, exposed forecast error, bias, and coverage, and added CSV export and backend tests.<br/><a href="https://k7v3m9q2-five.vercel.app">Live dashboard</a></td></tr>
+<tr><td width="50%" valign="top"><img src="assets/card-analytics.svg" width="100%" alt="Automated Enterprise RAG Analytics Agent"/><br/>Built a pipeline that turns project records into validated, structured analytics. Used Pydantic to validate model output and a multithreaded scheduler to process 50+ project profiles concurrently.</td><td width="50%" valign="top"><img src="assets/card-eks.svg" width="100%" alt="Containerized Flask REST API on AWS EKS"/><br/>Deployed a multi-replica Flask API with CPU-based autoscaling from two to five pods. Ran MongoDB as a StatefulSet with EBS-backed persistent storage and stored credentials in Kubernetes Secrets.</td></tr>
+</table>
+
+| More work | What it does | Result |
+| --- | --- | --- |
+| **[Fear &amp; Greed vs. Profit](https://github.com/ankush-48/Fear-Greed-vs-Profit-A-Behavioral-Analysis-of-Crypto-Trading)** | Compares Hyperliquid trading behavior across five Bitcoin sentiment regimes | Analyzed 480 days of data. Average PnL was about $31 per trade in Fear and $64 in Neutral. |
+
+## Achievements
+
+<div align="center"><img src="assets/section-03.svg" width="100%" alt="Achievements"/></div>
+
+- **CICADA 2023 Hackathon** · Led a four-person team through a 24-hour build at Atria Institute of Technology.
+- **CodeChef Silver Problem Solver** · Solved 270+ data structures and algorithms problems in Java and Python.
+- **Presidency University Innovation Expo** · Selected among the top 70 of 450 teams in May 2023.
+
+[CodeChef](https://www.codechef.com/users/ankush48) · [LeetCode](https://leetcode.com/u/Ankush48/)
+
+## Experience
+
+<div align="center"><img src="assets/section-04.svg" width="100%" alt="Experience"/></div>
+
+<details open>
+<summary><b>Mphasis Ltd · Associate Software Engineer Intern</b></summary>
+
+*Feb 2026 – Apr 2026 · Bengaluru, India*
+
+- Built 12+ REST endpoints with Java and Spring Boot, with sub-200 ms response times in concurrent request benchmarks.
+- Reduced database response times by 20% across 15+ relational tables by optimizing MySQL queries and tuning Hibernate mappings.
+- Improved page-load speed by 25% across 10+ responsive frontend modules built with HTML, CSS, Bootstrap, and TypeScript.
+
+</details>
+<details>
+<summary><b>Evoastra Ventures · Data Science Intern, Data &amp; Pipelines</b></summary>
+
+*Jul 2025 – Aug 2025 · Remote*
+
+- Automated daily data collection with BeautifulSoup and Selenium, processing 50,000+ data points and saving 15+ hours of manual research per week.
+- Built a DenseNet201 CNN–LSTM image captioning model and served it through Flask.
+- Improved inference speed by 30% in benchmarks through tuning, custom tokenization, and optimized feature extraction.
+
+</details>
+
+### Education
+
+**Presidency University**, Bengaluru  
+B.Tech in Computer Science and Engineering · Dec 2022 – Nov 2026 · CGPA 7.7/10
+
+### Certifications &amp; Training
+
+- **AWS** · AWS Certified Cloud Practitioner
+- **Google Cloud** · GenAI Studio
+- **Microsoft** · Azure Essentials, Azure AI Essentials, Career Essentials in Software Development, and Career Essentials in Data Analysis
+- **HP** · HP Data Analytics
+- **Cisco** · Networking Basics
+
+### Tech Stack
 
 - **LLMs & agents** · LangChain, LangGraph, RAG, FAISS, Sentence-Transformers, Groq, and Llama 3.3.
 - **Software & infrastructure** · Spring Boot, Hibernate, REST APIs, Docker Compose, AWS EKS, and SQL.
@@ -116,94 +191,8 @@ I build AI agents, retrieval-augmented applications, and full-stack tools.
 
 </details>
 
----
-
-## 🏅 Achievements
-
-- **CICADA 2023 Hackathon** · Led a four-person team through a 24-hour build at Atria Institute of Technology.
-- **CodeChef Silver Problem Solver** · Solved 270+ data structures and algorithms problems in Java and Python.
-- **Presidency University Innovation Expo** · Selected among the top 70 of 450 teams in May 2023.
-
-[CodeChef](https://www.codechef.com/users/ankush48) · [LeetCode](https://leetcode.com/u/Ankush48/)
-
----
-
-## 💼 Experience
-
-### Mphasis Ltd · Associate Software Engineer Intern
-*Feb 2026 – Apr 2026 · Bengaluru, India*
-
-- Built 12+ REST endpoints with Java and Spring Boot, with sub-200 ms response times in concurrent request benchmarks.
-- Reduced database response times by 20% across 15+ relational tables by optimizing MySQL queries and tuning Hibernate mappings.
-- Improved page-load speed by 25% across 10+ responsive frontend modules built with HTML, CSS, Bootstrap, and TypeScript.
-
-### Evoastra Ventures · Data Science Intern, Data & Pipelines
-*Jul 2025 – Aug 2025 · Remote*
-
-- Automated daily data collection with BeautifulSoup and Selenium, processing 50,000+ data points and saving 15+ hours of manual research per week.
-- Built a DenseNet201 CNN–LSTM image captioning model and served it through Flask.
-- Improved inference speed by 30% in benchmarks through tuning, custom tokenization, and optimized feature extraction.
-
----
-
-## 🚀 Selected Projects
-
-### AI Multi-Agent Social Debate System
-*Python · LangChain · LangGraph · FAISS · Sentence-Transformers · Groq*
-
-Built a debate system that coordinates five or more LLM personas using LangGraph. Added FAISS-based semantic routing, retrieval-augmented conversation memory, and prompt-injection checks.
-
-[Source code](https://github.com/ankush-48/AI-Multi-Agent-Social-Debate-System)
-
-### Automated Enterprise RAG Analytics Agent
-*Python · LangChain · Llama 3.3 · Groq · Pydantic v2 · Pandas*
-
-Built a pipeline that turns project records into validated, structured analytics. Used Pydantic to validate model output and a multithreaded scheduler to process 50+ project profiles concurrently.
-
-### Relay · Offline-First Payment Network Simulator
-*Java 17 · Spring Boot · JavaScript · H2 · IndexedDB*
-
-Built a UPI-style payment simulator that queues transfers offline and syncs them on reconnect. Used AES-GCM and RSA-OAEP to encrypt payment packets, plus idempotency keys, freshness checks, and transactional ledger updates to handle duplicate and concurrent arrivals.
-
-[Live demo](https://relay-offline-payment-demo.onrender.com/)
-
-### Containerized Flask REST API on AWS EKS
-*Python · Flask · Docker · Kubernetes · AWS EKS · MongoDB*
-
-Deployed a multi-replica Flask API with CPU-based autoscaling from two to five pods. Ran MongoDB as a StatefulSet with EBS-backed persistent storage and stored credentials in Kubernetes Secrets.
-
-### Wind Vintage · UK Wind Forecast Accuracy
-*Python · FastAPI · React · Elexon BMRS · Docker*
-
-Built a dashboard that matches UK wind generation forecasts with actuals using a configurable day-ahead cutoff. Processed 20,700+ records, exposed forecast error, bias, and coverage, and added CSV export and backend tests.
-
-[Live dashboard](https://k7v3m9q2-five.vercel.app)
-
-### Fear & Greed vs. Profit · Crypto Trading Analysis
-*Python · Pandas · Matplotlib · Seaborn*
-
-Combined 480 days of Hyperliquid trades with the Bitcoin Fear & Greed Index. Compared trading behavior across five sentiment regimes and found average PnL of about $31 per trade in Fear versus $64 in Neutral in the analyzed dataset.
-
-[Source code](https://github.com/ankush-48/Fear-Greed-vs-Profit-A-Behavioral-Analysis-of-Crypto-Trading)
-
----
-
-## 🎓 Education
-
-**Presidency University**, Bengaluru  
-B.Tech in Computer Science and Engineering · Dec 2022 – Nov 2026 · CGPA 7.7/10
-
-## 📜 Certifications & Training
-
-- **AWS** · AWS Certified Cloud Practitioner
-- **Google Cloud** · GenAI Studio
-- **Microsoft** · Azure Essentials, Azure AI Essentials, Career Essentials in Software Development, and Career Essentials in Data Analysis
-- **HP** · HP Data Analytics
-- **Cisco** · Networking Basics
-
----
-
-## 💫 About Me
+<details>
+<summary>More about me</summary>
 
 🚀 **AI Engineer | Software Developer | Full-Stack Enthusiast | Problem Solver**
 
@@ -235,28 +224,6 @@ Building production-ready AI applications that are scalable, reliable, and solve
 
 > 🌟 **"Code. Learn. Build. Repeat. Every project is another step toward creating technology that makes a difference."**
 
-<details>
-<summary>Profile banner, animation, and counters</summary>
-
-<p align="center">
-  <img width="100%" alt="Ankush Yadav · B.Tech in Computer Science and Engineering · Presidency University, Bengaluru" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:06B6D4,100:14B8A6&height=340&section=header&text=ANKUSH%20YADAV&fontSize=60&fontColor=ffffff&animation=twinkling&desc=Bachelor%20of%20Technology%0A,Computer%20Science%20and%20Engineering%0A,Presidency%20University,%20Bengaluru&descAlignY=72&descSize=20"/>
-</p>
-
-<p align="center">
-  <img width="640" alt="AI Engineer · Full-Stack Developer · Building with LLMs, RAG, and AI Agents" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=20&amp;pause=1200&amp;color=06B6D4&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=AI+Engineer%3BFull-Stack+Developer%3BBuilding+with+LLMs%2C+RAG%2C+and+AI+Agents" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ankush-48"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=ankush-48&amp;style=for-the-badge&amp;color=0891b2" /></a>
-  <a href="https://github.com/ankush-48?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ankush-48?style=for-the-badge&amp;logo=github&amp;color=4f46e5" /></a>
-</p>
-
-</details>
-
----
-
-## ✨ Developer Philosophy
-
 <div align="center">
 
 **🚀 "Great software isn't built by writing more code. It's built by solving the right problems."**
@@ -267,9 +234,11 @@ Building production-ready AI applications that are scalable, reliable, and solve
 
 </div>
 
----
+</details>
 
-## 📈 GitHub Stats
+## Live from GitHub
+
+<div align="center"><img src="assets/section-05.svg" width="100%" alt="Live from GitHub"/></div>
 
 [View the contribution calendar](https://github.com/ankush-48#contributions-calendar) · [Browse repositories](https://github.com/ankush-48?tab=repositories)
 
@@ -301,13 +270,8 @@ Building production-ready AI applications that are scalable, reliable, and solve
 
 </details>
 
-<details>
-<summary>🐍 Contribution Snake &amp; Earth</summary>
+<div align="center">
 
-![Contribution snake animation demo](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+<a href="https://ankush-yadav.netlify.app/">Portfolio</a> · <a href="https://linkedin.com/in/ankush-yadav48">LinkedIn</a> · <a href="mailto:ay3068756@gmail.com">Email</a>
 
-*Contribution snake demo from the generator's repository.*
-
-🌍
-
-</details>
+</div>
