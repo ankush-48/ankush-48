@@ -4,6 +4,10 @@
 
 💡 Passionate about building intelligent systems that combine **AI, LLMs, RAG, Agentic AI, Machine Learning, Cloud, and Full-Stack Development** to solve real-world problems.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-15121e?style=for-the-badge&logo=netlify&logoColor=59e7c5)](https://ankush-yadav.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankush-yadav48)
+[![Email](https://img.shields.io/badge/Email-15121e?style=for-the-badge&logo=gmail&logoColor=ff796d)](mailto:ay3068756@gmail.com)
+
 <p align="center">
   <img alt="Coding animation" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 </p>
@@ -267,9 +271,3 @@ B.Tech in Computer Science and Engineering · Dec 2022 – Nov 2026 · CGPA 7.7/
 </table>
 
 Charts refresh on a daily schedule. Each chart keeps its last successful copy if its provider is unavailable.
-
-<div align="center">
-
-<a href="https://ankush-yadav.netlify.app/">Portfolio</a> · <a href="https://linkedin.com/in/ankush-yadav48">LinkedIn</a> · <a href="mailto:ay3068756@gmail.com">Email</a>
-
-</div>
