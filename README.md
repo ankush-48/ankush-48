@@ -1,17 +1,42 @@
+## About Me
+
+🚀 **AI Engineer | Software Developer | Full-Stack Enthusiast | Problem Solver**
+
+💡 Passionate about building intelligent systems that combine **AI, LLMs, RAG, Agentic AI, Machine Learning, Cloud, and Full-Stack Development** to solve real-world problems.
+
+<p align="center">
+  <img alt="Coding animation" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+</p>
+
+### 🔭 Currently Building
+✨ AI Agents • 🤖 LLM Applications • 🧠 RAG Pipelines • 🌐 Full-Stack AI Products • ⚡ Intelligent Automation
+
+### 🌱 Currently Learning
+📚 Multi-Agent AI • 🕸️ LangGraph • ☸️ Kubernetes • 🚀 MLOps • ☁️ AWS & GCP • 🔄 CI/CD • 🗄️ Vector Databases • 🧩 Prompt Engineering
+
+### 👯 Open to Collaborate On
+🤝 AI/ML • LLM Applications • Open Source • Full-Stack Projects • Computer Vision • Data Science • Agentic AI
+
+### 💬 Ask Me About
+🐍 Python • ☕ Java • 🔗 LangChain • 🕸️ LangGraph • 📦 FastAPI • 🐳 Docker • ☁️ AWS • 🗄️ SQL • 🧠 TensorFlow • 📊 Data Analytics • 🤖 AI Agents
+
+### 🎯 Current Goal
+Building production-ready AI applications that are scalable, reliable, and solve meaningful real-world problems.
+
+### ⚡ Fun Fact
+💙 I genuinely enjoy learning new technologies, experimenting with AI frameworks, and turning ideas into working products faster than I can write them down. 🚀✨
+
+---
+
+> 🌟 **"Code. Learn. Build. Repeat. Every project is another step toward creating technology that makes a difference."**
+
 <div align="center">
 
-<a href="https://ankush-yadav.netlify.app/"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/hero.svg" width="100%" alt="Ankush Yadav, AI and software engineering in Bengaluru"/></a>
+**🚀 "Great software isn't built by writing more code. It's built by solving the right problems."**
 
-<img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/marquee.svg" width="100%" alt="Mphasis, Evoastra Ventures, AWS Certified Cloud Practitioner"/>
+💡 Learn relentlessly. Build fearlessly. Ship consistently.
 
-<a href="https://ankush-yadav.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-17131f?style=for-the-badge&amp;labelColor=6d41a1" alt="Visit"/></a>
-<a href="#selected-work"><img src="https://img.shields.io/badge/01-WORK-17131f?style=for-the-badge&amp;labelColor=6d41a1" alt="Work"/></a>
-<a href="#achievements"><img src="https://img.shields.io/badge/02-WINS-17131f?style=for-the-badge&amp;labelColor=6d41a1" alt="Wins"/></a>
-<a href="#experience"><img src="https://img.shields.io/badge/03-EXPERIENCE-17131f?style=for-the-badge&amp;labelColor=6d41a1" alt="Experience"/></a>
-<a href="https://linkedin.com/in/ankush-yadav48"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-17131f?style=for-the-badge&amp;labelColor=6d41a1" alt="Connect"/></a>
-<a href="mailto:ay3068756@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-17131f?style=for-the-badge&amp;labelColor=6d41a1" alt="Contact"/></a>
-
-<img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/proof.svg" width="100%" alt="12+ REST endpoints, 270+ DSA problems, top 70 of 450 expo teams"/>
+⭐ *"The best way to predict the future is to build it."*
 
 </div>
 
@@ -231,48 +256,6 @@ B.Tech in Computer Science and Engineering · Dec 2022 – Nov 2026 · CGPA 7.7/
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-## About Me
-
-🚀 **AI Engineer | Software Developer | Full-Stack Enthusiast | Problem Solver**
-
-💡 Passionate about building intelligent systems that combine **AI, LLMs, RAG, Agentic AI, Machine Learning, Cloud, and Full-Stack Development** to solve real-world problems.
-
-<p align="center">
-  <img alt="Coding animation" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
-</p>
-
-### 🔭 Currently Building
-✨ AI Agents • 🤖 LLM Applications • 🧠 RAG Pipelines • 🌐 Full-Stack AI Products • ⚡ Intelligent Automation
-
-### 🌱 Currently Learning
-📚 Multi-Agent AI • 🕸️ LangGraph • ☸️ Kubernetes • 🚀 MLOps • ☁️ AWS & GCP • 🔄 CI/CD • 🗄️ Vector Databases • 🧩 Prompt Engineering
-
-### 👯 Open to Collaborate On
-🤝 AI/ML • LLM Applications • Open Source • Full-Stack Projects • Computer Vision • Data Science • Agentic AI
-
-### 💬 Ask Me About
-🐍 Python • ☕ Java • 🔗 LangChain • 🕸️ LangGraph • 📦 FastAPI • 🐳 Docker • ☁️ AWS • 🗄️ SQL • 🧠 TensorFlow • 📊 Data Analytics • 🤖 AI Agents
-
-### 🎯 Current Goal
-Building production-ready AI applications that are scalable, reliable, and solve meaningful real-world problems.
-
-### ⚡ Fun Fact
-💙 I genuinely enjoy learning new technologies, experimenting with AI frameworks, and turning ideas into working products faster than I can write them down. 🚀✨
-
----
-
-> 🌟 **"Code. Learn. Build. Repeat. Every project is another step toward creating technology that makes a difference."**
-
-<div align="center">
-
-**🚀 "Great software isn't built by writing more code. It's built by solving the right problems."**
-
-💡 Learn relentlessly. Build fearlessly. Ship consistently.
-
-⭐ *"The best way to predict the future is to build it."*
-
-</div>
 
 ## More GitHub Stats
 
