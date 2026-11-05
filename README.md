@@ -42,6 +42,22 @@ Built a debate system that coordinates five or more LLM personas using LangGraph
 | --- | --- | --- |
 | **[Fear &amp; Greed vs. Profit](https://github.com/ankush-48/Fear-Greed-vs-Profit-A-Behavioral-Analysis-of-Crypto-Trading)** | Compares Hyperliquid trading behavior across five Bitcoin sentiment regimes | Analyzed 480 days of data. Average PnL was about $31 per trade in Fear and $64 in Neutral. |
 
+### Relay screenshots
+
+<table>
+<tr><td width="50%"><a href="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-home.png"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-home.png" width="100%" alt="Relay landing page"/></a><br/><sub>Relay landing page</sub></td><td width="50%"><a href="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-lifecycle.png"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-lifecycle.png" width="100%" alt="Offline payment request lifecycle"/></a><br/><sub>Offline payment request lifecycle</sub></td></tr>
+<tr><td width="50%"><a href="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-dashboard.png"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-dashboard.png" width="100%" alt="Guest dashboard and simulated ledger"/></a><br/><sub>Guest dashboard and simulated ledger</sub></td><td width="50%"><a href="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-send.png"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-send.png" width="100%" alt="Simulated payment form"/></a><br/><sub>Simulated payment form</sub></td></tr>
+<tr><td width="50%"><a href="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-receive.png"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-receive.png" width="100%" alt="Demo payment identifier"/></a><br/><sub>Demo payment identifier</sub></td><td width="50%"><a href="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-scan.png"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-scan.png" width="100%" alt="Scan and pay demo with manual recipient lookup"/></a><br/><sub>Scan and pay demo with manual recipient lookup</sub></td></tr>
+<tr><td width="50%"><a href="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-network.png"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/relay-network.png" width="100%" alt="Network monitor and simulated mesh topology"/></a><br/><sub>Network monitor and simulated mesh topology</sub></td></tr>
+</table>
+
+### Wind Vintage screenshots
+
+<table>
+<tr><td width="50%"><a href="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/wind-overview.png"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/wind-overview.png" width="100%" alt="Forecast dashboard overview"/></a><br/><sub>Forecast dashboard overview</sub></td><td width="50%"><a href="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/wind-generation.png"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/wind-generation.png" width="100%" alt="Actual versus forecast wind generation"/></a><br/><sub>Actual versus forecast wind generation</sub></td></tr>
+<tr><td width="50%"><a href="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/wind-intervals.png"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/projects/wind-intervals.png" width="100%" alt="Half-hour forecast and outturn table"/></a><br/><sub>Half-hour forecast and outturn table</sub></td></tr>
+</table>
+
 ## Achievements
 
 <div align="center"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/section-03.svg" width="100%" alt="Achievements"/></div>
@@ -242,33 +258,20 @@ Building production-ready AI applications that are scalable, reliable, and solve
 
 [View the contribution calendar](https://github.com/ankush-48#contributions-calendar) · [Browse repositories](https://github.com/ankush-48?tab=repositories)
 
-<details>
-<summary>📊 GitHub Stats</summary>
+### Contribution activity
 
-![GitHub account statistics](https://github-readme-stats.shion.dev/api?username=ankush-48&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+<img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/github/activity-graph.svg" alt="Ankush&#x27;s GitHub activity graph" width="100%"/>
 
-![GitHub contribution streak](https://streak-stats.demolab.com/?user=ankush-48&theme=dark&hide_border=false)
+### Stats, streak, and languages
 
-![Top languages](https://github-readme-stats.shion.dev/api/top-langs/?username=ankush-48&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<table>
+<tr><td width="50%"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/github/account-stats.svg" alt="GitHub account statistics" width="100%"/></td><td width="50%"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/github/streak.svg" alt="GitHub contribution streak" width="100%"/></td></tr>
+<tr><td width="50%"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/github/top-languages.svg" alt="Top languages" width="100%"/></td><td width="50%"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/github/profile-details.svg" alt="Profile details" width="100%"/></td></tr>
+<tr><td width="50%"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/github/summary-stats.svg" alt="Profile summary statistics" width="100%"/></td><td width="50%"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/github/activity-by-hour.svg" alt="Commit activity by hour, UTC+5:30" width="100%"/></td></tr>
+<tr><td width="50%"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/github/repos-per-language.svg" alt="Repositories per language" width="100%"/></td><td width="50%"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/github/commits-per-language.svg" alt="Commits per language" width="100%"/></td></tr>
+</table>
 
-![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankush-48&theme=github_dark)
-
-![Profile summary statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankush-48&theme=github_dark)
-
-![Commit activity by hour, UTC+5:30](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankush-48&theme=github_dark&utcOffset=5.5)
-
-![Repositories per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankush-48&theme=github_dark)
-
-![Commits per language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankush-48&theme=github_dark)
-
-</details>
-
-<details>
-<summary>📈 GitHub Activity Graph</summary>
-
-[![Ankush's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ankush-48&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</details>
+Charts refresh on a daily schedule. Each chart keeps its last successful copy if its provider is unavailable.
 
 <div align="center">
 
