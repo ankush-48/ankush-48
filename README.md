@@ -103,8 +103,7 @@ Enter **Guest access** first. In the network monitor, use **Refresh telemetry** 
 
 <div align="center"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/section-04.svg" width="100%" alt="Experience"/></div>
 
-<details open>
-<summary><b>Mphasis Ltd · Associate Software Engineer Intern</b></summary>
+### Mphasis Ltd · Associate Software Engineer Intern
 
 *Feb 2026 – Apr 2026 · Bengaluru, India*
 
@@ -112,9 +111,7 @@ Enter **Guest access** first. In the network monitor, use **Refresh telemetry** 
 - Reduced database response times by 20% across 15+ relational tables by optimizing MySQL queries and tuning Hibernate mappings.
 - Improved page-load speed by 25% across 10+ responsive frontend modules built with HTML, CSS, Bootstrap, and TypeScript.
 
-</details>
-<details>
-<summary><b>Evoastra Ventures · Data Science Intern, Data &amp; Pipelines</b></summary>
+### Evoastra Ventures · Data Science Intern, Data &amp; Pipelines
 
 *Jul 2025 – Aug 2025 · Remote*
 
@@ -122,18 +119,16 @@ Enter **Guest access** first. In the network monitor, use **Refresh telemetry** 
 - Built a DenseNet201 CNN–LSTM image captioning model and served it through Flask.
 - Improved inference speed by 30% in benchmarks through tuning, custom tokenization, and optimized feature extraction.
 
-</details>
-
 ## Live from GitHub
 
 <a href="https://github.com/ankush-48#contributions-calendar"><img src="https://raw.githubusercontent.com/ankush-48/ankush-48/main/assets/github/contribution-heatmap.svg" width="100%" alt="GitHub contribution heatmap and statistics for Ankush Yadav"/></a>
 
-### Education
+## Education
 
 **Presidency University**, Bengaluru  
 B.Tech in Computer Science and Engineering · Dec 2022 – Nov 2026 · CGPA 7.7/10
 
-### Certifications &amp; Training
+## Certifications &amp; Training
 
 - **AWS** · AWS Certified Cloud Practitioner
 - **Google Cloud** · GenAI Studio
@@ -141,14 +136,11 @@ B.Tech in Computer Science and Engineering · Dec 2022 – Nov 2026 · CGPA 7.7/
 - **HP** · HP Data Analytics
 - **Cisco** · Networking Basics
 
-### Tech Stack
+## Tech Stack
 
 - **LLMs & agents** · LangChain, LangGraph, RAG, FAISS, Sentence-Transformers, Groq, and Llama 3.3.
 - **Software & infrastructure** · Spring Boot, Hibernate, REST APIs, Docker Compose, AWS EKS, and SQL.
 - **Data & ML** · Exploratory data analysis, feature engineering, statistical modeling, CNNs, LSTMs, Tableau, and Seaborn.
-
-<details>
-<summary>See all 69 technology badges</summary>
 
 ### Languages & Markup
 
@@ -240,10 +232,7 @@ B.Tech in Computer Science and Engineering · Dec 2022 – Nov 2026 · CGPA 7.7/
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-</details>
-
-<details>
-<summary>More about me</summary>
+## About Me
 
 🚀 **AI Engineer | Software Developer | Full-Stack Enthusiast | Problem Solver**
 
@@ -284,8 +273,6 @@ Building production-ready AI applications that are scalable, reliable, and solve
 ⭐ *"The best way to predict the future is to build it."*
 
 </div>
-
-</details>
 
 ## More GitHub Stats
 
