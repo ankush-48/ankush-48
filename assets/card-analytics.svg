@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="151" viewBox="0 0 480 151" role="img">
+<title>Automated Enterprise RAG Analytics Agent</title>
+<defs><linearGradient id="accent"><stop stop-color="#818cf8"/><stop offset="1" stop-color="#22d3ee"/></linearGradient></defs>
+<rect x="1" y="1" width="478" height="149" rx="18" fill="#101527" stroke="#293450"/>
+<rect x="18" y="18" width="4" height="115" rx="2" fill="url(#accent)"/>
+<g font-family="Verdana, sans-serif"><text x="39" y="42" fill="#22d3ee" font-size="14" font-weight="700">SELECTED WORK</text><text x="39" y="82" fill="#f1f5ff" font-size="22" font-weight="700">Enterprise RAG Analytics Agent</text><text x="39" y="111" fill="#a5b2cd" font-size="15" font-weight="400">Python · LangChain · Llama 3.3 · Groq ·</text><text x="39" y="132" fill="#a5b2cd" font-size="15" font-weight="400">Pydantic v2 · Pandas</text></g>
+</svg>
